@@ -1,4 +1,0 @@
-interface:
-  display_name: "Auto Research"
-  short_description: "Turn research ideas into rigorous autonomous research workflows."
-  default_prompt: "Use $auto-research to turn my research idea into an autonomous research plan, experiments, findings, and a paper-ready narrative."
