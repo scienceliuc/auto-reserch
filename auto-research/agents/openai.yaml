@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Research"
+  short_description: "Turn AI research ideas into top-conference-ready workflows."
+  default_prompt: "Use $auto-research to turn my AI research idea into a top-conference-oriented research workflow with hypotheses, experiments, findings, reviewer simulation, and a paper-ready narrative."
